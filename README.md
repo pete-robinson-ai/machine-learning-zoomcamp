@@ -3,7 +3,7 @@
 My progress towards becoming a **Junior ML Engineer** with a strong GenAI focus.
 
 ## Contents
-- **[ML Zoomcamp](./ml-zoomcamp)** — Machine Learning Engineering course by **[DataTalks.Club](https://datatalks.club/)** with my personal projects (regression, classification, deep learning & deployment)
+- **[ML Zoomcamp](./ml-zoomcamp)** — Machine Learning Engineering course by [DataTalks.Club](https://datatalks.club/) with my personal projects (regression, classification, deep learning & deployment)
 - **[SQLBolt](./sqlbolt)** — SQL exercises
 - **[NeetCode](./neetcode)** — Coding interview practice
 - **[GenAI Projects](./genai-projects)** — Chatbot UI, RAG Tool, Fine-tuned LLM projects
