@@ -1,6 +1,6 @@
-# ML Zoomcamp: Classification Chapter Summary (Churn Prediction)
+# ML Zoomcamp: Classification Chapter Summary 
 
-# Project
+# Project (Churn Prediction):
 Binary classification for telco customer churn (predict who will leave). Use Kaggle Telco dataset. Score customers 0-1 probability; target high-risk with promos. Positive (1): churned.
 
 # Data Prep:
